@@ -5,11 +5,11 @@
 		"picture": "profile.jpg",
 		"email": "hpcqt97@gmail.com",
 		"phone": "",
-		"website": "",
+		"website": "https://phuonglvh.github.io/me",
 		"twitter": "",
 		"facebook": "https://www.facebook.com/phuonglvh",
 		"github": "http://github.com/phuonglvh",
-		"summary": "I am a kind of experienced full-stack Software Engineer with a demonstrated history of working in the IT industry. Skilled in Research</b>, <b>Java</b>, <b>Spring Framework</b>, <b>Hibernate</b>, <b>MongoDB</b>, <b>MySQL</b>, <b>Nodejs</b>, <b>Express</b>, <b>Reactjs</b>, <b>Python</b>, <b>and TypeScript</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>Docker</b>, <b>Bitbucket pipelines. <br> I possess a strong engineering professional with a Bachelor of Science - BS in Electronics and Telecommunications from Ho Chi Minh University of Technology."
+		"summary": "I am a kind of experienced full-stack Software Engineer with a demonstrated history of working in the IT industry. Skilled in <b>Research</b>, <b>Java</b>, <b>Spring Framework</b>, <b>Hibernate</b>, <b>MongoDB</b>, <b>MySQL</b>, <b>Nodejs</b>, <b>Express</b>, <b>Reactjs</b>, <b>Python</b>, <b>and TypeScript</b>, <b>RabbitMQ</b>, <b>Redis</b>, <b>Docker</b>, <b>Bitbucket pipelines</b>. <br> I possess a strong engineering professional with a Bachelor of Science - BS in Electronics and Telecommunications from Ho Chi Minh University of Technology."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
